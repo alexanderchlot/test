@@ -1,6 +1,6 @@
 **test**
 =======
-* Testar githug igen *
+* Testar github igen *
 
 - index.html fil skapad i projektmappen -
 
